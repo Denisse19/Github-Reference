@@ -1,0 +1,14 @@
+h1 { 
+  color: Blue;
+  font-family: "sans-serif"; 
+}
+
+h2 {
+  color: gray;
+  font-family: "serif";
+}
+
+p {
+  font-family: "sans-serif";
+  font-size: 20px;
+}
